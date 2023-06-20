@@ -3,12 +3,10 @@
 Company             : Corewebbd
 Website             : Corewebbd.com
 
-**Developers**      : 
-Mahide Hasan Anik, 
-Md Monir Hossain Bahat, 
-Azmath Ullah Rakib
+**Developer**      : 
+Mahide Hasan Anik
 
-Framework & Library : Laravel and React JS
+Framework & Library: Laravel and React JS
 
 Installation
 ================
@@ -19,7 +17,7 @@ Installation
 
 - run command **"cp .env.example .env"**
 
-- run command **"php artisan key:generate"**
+- run command **"php artisan key: generate"**
 
 - run command **"php artisan migrate"**
 
